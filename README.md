@@ -2,6 +2,24 @@
 
 Petite application PHP pour gérer une liste d’étudiants. Les données sont conservées dans un fichier texte, sans base de données.
 
+## Aperçu de l’interface
+
+### Connexion
+
+![Page de connexion](screenshots/connexion.png)
+
+### Liste des étudiants
+
+![Liste des étudiants](screenshots/liste-etudiants.png)
+
+### Ajout d’un étudiant
+
+![Formulaire d’ajout d’un étudiant](screenshots/ajouter-etudiant.png)
+
+### Modification d’un étudiant
+
+![Formulaire de modification d’un étudiant](screenshots/modifier-etudiant.png)
+
 ## Fonctionnalités
 
 - Connexion avec session et mémorisation du dernier login pendant 7 jours.
