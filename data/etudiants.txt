@@ -1,0 +1,4 @@
+2;amrani;youssef;IDIA;16;
+3;el fassi;lina;GE;12.75;
+4;Saadeddine;Zineb;GI;17;etu_6afb2ebca6f990.37684668.jpg
+5;Amani;ahlam;IDIA;19;etu_6afb2fd968f9c1.43305094.jpg
