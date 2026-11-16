@@ -116,7 +116,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 include __DIR__ . '/header.php';
 ?>
 <section class="formulaire-page">
-    <p class="surtitre"><?= $modeEdition ? 'Fiche étudiant' : 'Nouveau dossier' ?></p>
+    <p class="surtitre"><?= $modeEdition ? 'Fiche étudiant' : 'Nouvel étudiant' ?></p>
     <h1><?= $modeEdition ? 'Modifier un étudiant' : 'Ajouter un étudiant' ?></h1>
     <p class="texte-secondaire">Les champs marqués d’un astérisque sont obligatoires.</p>
 

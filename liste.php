@@ -37,7 +37,7 @@ include __DIR__ . '/header.php';
 ?>
 <section class="page-entete">
     <div>
-        <p class="surtitre">Répertoire</p>
+        <p class="surtitre">Liste des étudiants</p>
         <h1>Étudiants</h1>
         <p class="texte-secondaire">Consultez, recherchez et gérez les étudiants enregistrés.</p>
     </div>
