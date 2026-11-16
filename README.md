@@ -50,7 +50,5 @@ Le dernier champ contient le nom de la photo enregistrée dans uploads/. Il rest
     ├── script.js
     ├── style.css
     ├── supprimer.php
-    ├── test.php
     └── uploads/
 
-test.php affiche les informations de PHP pour l’exercice sur l’environnement local. Il est destiné au travail en local; retirez-le avant de publier l’application sur un serveur public.
